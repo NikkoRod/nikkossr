@@ -1,0 +1,35 @@
+Password will be changed every 3 Days
+
+
+CHANGE PASS SCHEDULES
+
+April 20
+April 23
+April 26
+April 29
+April 32
+.....
+.....
+
+
+Para lang po ito maiwasan/mabawasan ang gumagamit ng mga
+ipinagbabawal na teknik.
+
+
+(Dadagdagan pa po ito natin next time)
+
+3 Servers
+
+ssr://MTc4LjEyOC4xOC43NzoxOTE5Om9yaWdpbjphZXMtMjU2LWNmYjp0bHMxLjJfdGlja2V0X2F1dGg6Ym1scmEyOD0vP29iZnNwYXJhbT1NQzVtWVdObFltOXZheTVqYjIwPSZyZW1hcmtzPVRtbHJhMjhnS0ZObGNuWmxjaUF4S1E9PQ==
+
+ssr://MTc4LjEyOC44My4yMDg6MTkxOTpvcmlnaW46cmM0LW1kNTp0bHMxLjJfdGlja2V0X2F1dGg6Ym1scmEyOD0vP29iZnNwYXJhbT1NQzVtWVdObFltOXZheTVqYjIwPSZyZW1hcmtzPVRtbHJhMjhnS0ZObGNuWmxjaUF5S1E9PQ==
+
+ssr://MTY3Ljk5Ljc5LjIwMzoxOTE5Om9yaWdpbjphZXMtMjU2LWNmYjp0bHMxLjJfdGlja2V0X2F1dGg6Ym1scmEyOD0vP29iZnNwYXJhbT1NQzVtWVdObFltOXZheTVqYjIwPSZyZW1hcmtzPVRtbHJhMjhnS0ZObGNuWmxjaUF6S1E9PQ==
+
+
+Lahat po ito ay may installed na Fixer kaya 
+mas stable ang internet
+
+Kung wala mang pumapasok na data, Ang gawin nyo
+ON/OFF Data nyo o di kaya airplane mode at connect kayo ulit
+
